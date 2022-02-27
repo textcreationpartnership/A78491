@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine queres concerning the Booke of common prayer, and divers other articles of religion: propounded to a reverend divine of the City of London, and his modest reply unto the same, for the satisfaction of tender consciences; wherein these particulars are fully resolved, viz. 1. Whether the Booke of common prayer is to bee allowed by Gods Word or no? 2. Whether articles of religion agreed upon by a synod bee binding by Gods Word or no? 3. Whether we be tyed by the Gospel to the order and use of the Apostles in all things for matters of religion or no? 4. Whether there bee any right ministry or ecclesiasticall governement at this time in the Church of England or no? 5. Whether nothing may be added in point of worship but what is axactly [sic] commanded in Scripture or no? 6. Whether the clergie are to have the whole governement of the Church in matters ecclesiasticall or no? ... 18. Lastly, whether the King and State be bound to observe the iudiciall lawes of Moses in the puuishment [sic] of criminall offences or no?</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78491</idno>
+            <idno type="STC">Wing C1736</idno>
+            <idno type="STC">Thomason E247_17</idno>
+            <idno type="STC">ESTC R206825</idno>
+            <idno type="EEBO-CITATION">99865931</idno>
+            <idno type="PROQUEST">99865931</idno>
+            <idno type="VID">118187</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78491)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118187)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E247[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine queres concerning the Booke of common prayer, and divers other articles of religion: propounded to a reverend divine of the City of London, and his modest reply unto the same, for the satisfaction of tender consciences; wherein these particulars are fully resolved, viz. 1. Whether the Booke of common prayer is to bee allowed by Gods Word or no? 2. Whether articles of religion agreed upon by a synod bee binding by Gods Word or no? 3. Whether we be tyed by the Gospel to the order and use of the Apostles in all things for matters of religion or no? 4. Whether there bee any right ministry or ecclesiasticall governement at this time in the Church of England or no? 5. Whether nothing may be added in point of worship but what is axactly [sic] commanded in Scripture or no? 6. Whether the clergie are to have the whole governement of the Church in matters ecclesiasticall or no? ... 18. Lastly, whether the King and State be bound to observe the iudiciall lawes of Moses in the puuishment [sic] of criminall offences or no?</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed. :</pubPlace>
+                  <date>1643. April the 1.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Book of common prayer --  Early works to 1800.</term>
+               <term>Theology --  Miscellanea --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="title_page">
+            <pb facs="tcp:118187:1"/>
+            <pb facs="tcp:118187:1"/>
+            <head>CERTAINE QVERES CONCER<g ref="char:EOLhyphen"/>ning the Booke of Common Prayer, and divers other Arti<g ref="char:EOLhyphen"/>cles of Religion.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hether the book intituled <hi>The booke of Common Prayer,</hi> al<g ref="char:EOLhyphen"/>lowed by publike authority in this Realme, is to be allowed in the Church of God, by Gods word or no?</p>
+            <p>
+               <label>Anſwer.</label> Before I give my anſwere to this demand I muſt intreat you to obſerve this my Proteſtation, that I have never as yet preached againſt the uſe of this booke of prayers: and in mine owne booke extant in print, I have once ſpoken openly, to the good allowance thereof.</p>
+            <p>Secondly I reſort to Common prayers, and ſometime being requeſted, I do according as it is preſcribed, ſay the prayers. If notwithſtanding I ſhall be ur<g ref="char:EOLhyphen"/>ged to ſpeake now, what I thinke, whereby I may ſeeme to be called to a forme of inquiſition, as there is no law by which God hath tyed me of duety to be my owne accuſer: ſo I beſeech you let this my anſwere rather witneſſe my ſaithfulneſſe to your demands, then be preiudiciall to my hurt and hinder<g ref="char:EOLhyphen"/>ance. Which thing as I moſt humbly crave, ſo in perſwaſion of your favours, I will anſwere boldly wherein I am enquired.</p>
+            <p>Firſt the ſimilitude that this booke hath with the forme of prayer, which the Papiſts uſed, I thinke declineth from the equity of thoſe lawes, <hi>Deut.</hi> 7. <hi>v.</hi> 25.
+<note place="margin">The forma of the booke of common prayer.</note> 
+               <hi>Deut.</hi> 12. <hi>v.</hi> 30. <hi>Deut.</hi> 18. <hi>ver.</hi> 9. Which thing our Fathers ſo much regarded in the primitive Church, that their bookes are full of great complaints, againſt all ſimilitude to be had with the Gentiles: yea the ſecond councell of <hi>Braecca,</hi> made at a decree, that no Chriſtian ſhould have either Bay-leafes, or greene Boughes in their houſes becauſe the Gentiles ſo accuſtomed. And at this day all reformed Church in <hi>Fraunce, Polenia, Hel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itia Scotlande,</hi> and other places, have changed that forme of prayers. Which prudency of all ages, if we ſhall condemne, the rebuke of the Apoſtle. I thinke, will touch us, 1. Cor. 14. ver. 36. <hi>Came the word of God out from you or came it elſe unto you onely?</hi>
+            </p>
+            <p>Secondarily, we have the Pſalmes, <hi>Venite, Benedictus, Magnificat, Nure
+<pb facs="tcp:118187:2"/>dimittis,</hi> uſuall in our miniſtry, of which we can give no reaſon. Nor I ſee no cauſe why we ſhould more leave out the <hi>Aue Maria.</hi> And becauſe of patting the Scriptures againe into the Epiſtles and Goſpells (which was not heard of be<g ref="char:EOLhyphen"/>fore the dayes of popery) I dare not avow that this is that reverent handling of the ſcripture and the right dividing of the word of truth, which S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>int Paul re<g ref="char:EOLhyphen"/>quireth, 2. Tim. 2. ver. 15. Thirdly, the great inconveniency which hath fol<g ref="char:EOLhyphen"/>lowed this booke, while it hath maintained an unlearned Miniſtry, and made it thought ſufficient, to have the fervice read. Wherein we have made the ſpirit of God to ſpeake in vain. <hi>That the Miniſter of the Goſpell, must be no young ſcholler,</hi> but of neceſſity <hi>muſt be apt to teach.</hi> 1 <hi>Tim.</hi> 3. <hi>ve.</hi> 2. <hi>able to exhort with wholeſome doctrine, and able to reproove them that ſpeake againſt i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Tit.</hi> 1. <hi>ver.</hi> 9. This is another cauſe why I can not freely (as I would gladly) ſub<g ref="char:EOLhyphen"/>ſcribe unto the booke, that it hath all things allowable by the word of God. Some other particular thinges, the Biſhops themſelves doe confeſſe to be faulty.</p>
+            <p n="2">
+               <label>2. <hi>Quere.</hi>
+               </label> Whether the Articles ſet downe by the Cleargy in a Synod, and allowed by authority, be according to Gods word or no?</p>
+            <p>
+               <hi>Anſ.</hi> I confeſſe the Articles of faith and Sacraments (as I am perſwaded) are good. So I thinke of the Articles which are of traditions, of an Oath before a Iudge, of the civill Magiſtrate, of the Doctrine taught in the Homilies, &amp;c. Onely that one, which is of conſecration of Arch-biſhops and Biſhops, I can by no meanes confeſſe it godly, and according to the word of God.</p>
+            <p n="3">
+               <label>3. <hi>Quere.</hi>
+               </label> Whether we be tyed by Gods word, to the order and uſe of the Apoſtles and primitive Church in all things, or no?</p>
+            <p>
+               <label>Anſ.</label> Whatſoever was the uſuall order of the Apoſtles, no doubt we are bound unto it, when Saint Paul had ſaid to Timothy: <hi>Thou haſt knowne what I have uſed to doe,</hi> hee added ſtraightly, <hi>Continue in the things which thou haſt learned,</hi> 2 Tim. 3. <hi>v.</hi> 14. And ſo he ſtraightly charged the <hi>Philippians, to have care to thoſe thinges which they had ſeene and heard in him Philip.</hi> 4. <hi>ver.</hi> 9.</p>
+            <p n="4">
+               <label>4. <hi>Quere.</hi>
+               </label> Whether there be any right miniſtrie, or eccleſiaſticall governe<g ref="char:EOLhyphen"/>ment at this time in the Church of England, or no;</p>
+            <p>
+               <label>Anſwere.</label> If you meane right, hauing ſuch a calling as the word of God requireth, (of which reade 1. Timot. 3. ver. 2. Act. 1. ver. 23. Actes. 14. ver. 23 1.
+<note place="margin">A right miniſterie</note> Timot. 4 ver. 14.) I am ſure you will confeſſe it is not right. If you meane a right miniſtration, as concerning Sacraments and doctrine, I humbly confeſſe and thinke, that no man ought to ſeparate him ſelfe from the Church which God hath given us in this land. of regiment, read the ſeaventh Article.</p>
+            <p n="5">
+               <label>5. <hi>Quere.</hi>
+               </label> Whether that nothing may be in the Church, either concern<g ref="char:EOLhyphen"/>ing ceremonies, or regiment, but that onely, which the Lord him ſelfe in his word commandeth, or no.</p>
+            <p>
+               <label>Anſwere.</label> Such ceremonies as do not neceſſarily appertaine to the Goſpell of Chriſt may be changed, obſerving alwayes that which Saint Paul hath commanded, Philip. 4. ver. 8.1. Corint. 14. ver. 26.</p>
+            <p>
+               <label>Quere.</label> Whether every particular Church or pariſh in this Realme of Eng<g ref="char:EOLhyphen"/>land, of neceſſitie and by the order of Gods word, ought to have their Paſt<g ref="char:EOLhyphen"/>ours
+<pb facs="tcp:118187:2"/>Elders, and Deacons, choſen by the people of that their pariſh: and they onely to have the whole government of that Church in matters eccleſi<g ref="char:EOLhyphen"/>aſticall, or no.</p>
+            <p>
+               <label>Anſwere.</label> Where ſoever this government hath bin, the ehoyce hath bin by certaine, with the allowance of the people, for ought that ever I read. But what were moſt requiſite for this preſeut time, I leave it to thoſe whome God hath ſet in authoritie and at this time called for that purpoſe of the manner of chuſing I will not define: for the order to be had, it is manifeſt in the Apoſtles time: and in the primitive Church it was the uſe. Neyther any, man I thinke,
+<note place="margin">Elders ought to be in the church.</note> will denie it. After long time in ſome places, this order ceaſed, as Saint <hi>Am<g ref="char:EOLhyphen"/>broſe</hi> ſaith, <hi>Superbia Doctorum, qui ſoli volebant regere Eccleſiam &amp;c. Ambro</hi> in 1 <hi>Tim. cap.</hi> 5. And therfore I think now there ought to be Elders as at the firſt &amp; as in <hi>Tertullians</hi> time, <hi>ut praſidiant probati quidam Seniores, qui ho<g ref="char:EOLhyphen"/>norem iſtum non pretio ſed teſtimouio adipiſcantur, Tertull. Apolo. cap.</hi> 39.</p>
+            <p n="7">
+               <label>7. <hi>Quere.</hi>
+               </label> Whether there is equalitie of all the Miniſters of this Realme, as well concerning government and juriſdiction as touching the miniſtrati<g ref="char:EOLhyphen"/>on of the word and Sacraments.</p>
+            <p>
+               <label>Anſwere.</label> That all Miniſters are equally called to the preaching of the word and miniſterie of the Sacraments, no man I think will deny. As touching go<g ref="char:EOLhyphen"/>vernement (ſeeing the holy Ghoſt calleth them fellow Miniſters, fellow El<g ref="char:EOLhyphen"/>ders, fellow Officers, fellow Souldiers, fellow labourers, fellow ſervants: fe<g ref="char:EOLhyphen"/>ing Saint Peter expreſly forbideth <hi>to exerciſe Dominion over the Lords heri<g ref="char:EOLhyphen"/>tage,</hi> 1. <hi>Pet.</hi> 5.3. ſeeing, Saint Iohn plainly condemneth the pride of <hi>Diotro<g ref="char:EOLhyphen"/>phes,</hi> for chalenging a Lordſhip to command and excommunieate of his ſole authoritie, <hi>epiſt.</hi> 3. <hi>ver.</hi> 9.10. ſeing our Saviour Chriſt, the God of Glory,
+<note place="margin">No ſupe<g ref="char:EOLhyphen"/>rioritie a<g ref="char:EOLhyphen"/>mong Miniſters.</note> &amp; of the tribe of Iuda, neither him ſelfe would be a King. <hi>Iohn</hi> 6. <hi>ver.</hi> 15. And when his Diſciples did ſtrive for ſuperiority, he taught them plainly, that the people of the Nation they had Kings, and amongeſt them were rulers, which we called <hi>gratious Lords,</hi> but no ſuch dominion ſhould be in Miniſterie, <hi>Luc.</hi> 22. <hi>ver.</hi> 24.25.26.) I anſwere then, that the Miniſters are worthy of double honour, 1. <hi>Tim.</hi> 5. <hi>ver.</hi> 17. of ſingular love 1. <hi>Theſſa.</hi> 5. <hi>ver.</hi> 12.13. of great reverence, <hi>Heb.</hi> 13. <hi>ver.</hi> 17. yea of all humble dutie. yet I dare by no meanes make them Lords in the miniſterie, nor give to one of them authoritie above the other, for feare of this ſentence, which ſhall one day prevaile, <hi>Regnaverunt ſed non ex me, Hoſea.</hi> 8.4. <hi>They rule but not by me.</hi>
+            </p>
+            <p>
+               <label>Quere,</label> Whether the patrimonie of ancient time given to the Church, for the maintaining of learning, &amp; the ſervice of god &amp; to maintaine the eſtate eccleſiaſticall as Biſhops lands the lands pertaining to Cathedrall Churches, the gleebe lands and thithes, by order of law given to perſons and Vicars, are by right and gods word to be taken from them, or no.</p>
+            <p>
+               <label>Anſ.</label> 
+               <hi>Sic ea qua Caeſaris ſunt Caeſari eſſe donanda, &amp;c.</hi> is a perpetuall rule in things of the world, but yet with this caution unto every prince that feareth who is King of Kings: that firſt there be proviſion ſufficient made for the miniſterie: then that the poore may have reliefe for their neceſſitie. laſt of all, that Vniverſities and Schooles be well maintained, in ſuch number, as may
+<pb facs="tcp:118187:3"/>ſtill ſupply the want in the miniſterie: without which conſiderations, the ſp<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l of the church is moſt unnaturall ſacriledge.</p>
+            <p n="9">
+               <label>9. <hi>Quere.</hi>
+               </label> Whether the Miniſters of this Realme, of what calling ſo ever now in place, allowed by the lawes and order of this Realme, be lawful miniſters: and whether their adminiſtration, and eccleſiaſticall actions be law<g ref="char:EOLhyphen"/>full or effectuall, or no.</p>
+            <p>
+               <label>Anſwere.</label> This ninth article, for ought that I ſee, is all one with the fourth 10. <hi>Quere.</hi> Wheither at a mariage it is not convenient to have a Communion and convenient for the new maried perſons to communicate: and at a fu<g ref="char:EOLhyphen"/>nerall to have a ſermon, or no.</p>
+            <p>
+               <label>Anſwere.</label> I would have communions at ſuch times, as the church appoint<g ref="char:EOLhyphen"/>eth. In which dayes if there be a marriage, it is meete the parties there co<g ref="char:EOLhyphen"/>mmucicate. For funerall ſermons, they may be uſed: yet if there bee in them any inconveniencie, that the Church be hurt or offended, being at an extra<g ref="char:EOLhyphen"/>ordinary time, they ſhould be left.</p>
+            <p n="11">
+               <label>11. <hi>Quere.</hi>
+               </label> Whether it is lawfull for any man to preach, but he that is a paſt<g ref="char:EOLhyphen"/>out: and he onely to preach to his owne flocke or that any man may preach without a licence, or no.</p>
+            <p>
+               <label>Anſwere.</label>
+               <note place="margin">Of licen<g ref="char:EOLhyphen"/>ſes to preach.</note> None may preach but a Paſtour or Doctour, and being requeſted upon iuſt occaſion, he may preach out of his pariſh. But in his owne flock if he have no licenſe to preach, ſure he hath no licenſe to be a paſier.</p>
+            <p n="12">
+               <label>12. <hi>Quere.</hi>
+               </label> Whether it be better and more agreeable to the Gods word, and more convenient for the profit of Gods Church, that apreſcript order of Common prayer be uſed, or that every Miniſter pray publikely, as his own ſpirit ſhall direct him, or no.</p>
+            <p>
+               <label>Anſwere.</label> An ordinary prayer is very aeceſſary, that it may be made fami<g ref="char:EOLhyphen"/>lier to the people: but as every pariſh ſhall have ſeverall occation, ſo it is ne<g ref="char:EOLhyphen"/>ceſſary that the Miniſter be wiſe to pray in the congregation, for the neceſſa<g ref="char:EOLhyphen"/>ties of his people.</p>
+            <p n="13">
+               <label>13. <hi>Quere</hi>
+               </label> Whether that Children of ſuch as be perfect papiſts, are to be baptiſed: and whether inſants are within the compaſſe of Gods covenant, and have faith, or no.</p>
+            <p>
+               <hi>Anſwere.</hi> If the parents be obſtinate, and (as they are here tearmed) per<g ref="char:EOLhyphen"/>fect papiſts, wanting nothing of all that ſpirituall wickedneſſe and ſo account<g ref="char:EOLunhyphen"/>ed of the church, then their children are not to be admitted unto the Sacra<g ref="char:EOLhyphen"/>ments of the Church,
+<note place="margin">Papiſh children not to be baptiſed.</note> although we do not remove them from the election of God. But if they be not caſt out of the church, we may admit their children not as haveing faith which commeth by hearing, but as being by grace in the covenat, <hi>I am their God and the God of their ſeede.</hi>
+            </p>
+            <p n="14">
+               <label>14. <hi>Quere.</hi>
+               </label> Whether any ecclefiaſticall perſon, may have more eccleſi<g ref="char:EOLhyphen"/>aſticall liuings, than one, or no.</p>
+            <p>
+               <label>Anſwere.</label> As the neceſtatie of the man requireth, or the giſts of God an
+<pb facs="tcp:118187:3"/>mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e abundant, whereby thorowe great reſort they are the more charged: ſo they ought to be more liberally maintained. But as for one man to have many Perſonages, where he cannot poſſibly be reſident, it is great wickednes And ſeeing Chriſt hath purchaſed his people with his owne bloud, who ſo<g ref="char:EOLhyphen"/>ever doth ſo enioy them, they conſider litle, the exhortation of Saint Paul:
+<note place="margin">Of none neſidents.</note> 
+               <hi>Attend unto the flocke of Chriſt, of which the holy ghoſt hath made you e<g ref="char:EOLhyphen"/>verſeers, Act.</hi> 20. <hi>ver.</hi> 28. And therefore I humbly beſeech the high Court of Parliament to ſee it reformed;</p>
+            <p n="15">
+               <label>15. <hi>Quere.</hi>
+               </label> Whether that one may be a Miniſter that hath no peculiar flock aſſigned unto him, and whether an eccleſiaſticall perſon may exerciſe a civile function, or no.</p>
+            <p>
+               <label>Anſwere.</label> A Miniſter can be no more without a charge, the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a King without a Kingdome, for exerciſing civill government, I ſay, <hi>Neme militans implicatur vitae negotiis, ut ei qui ſe in militiam detegit, placeat,</hi> 2 <hi>Timot.</hi> 2. <hi>ver.</hi> 4. And I am ſure what perſon ſoever ſeeketh after it, it is for want of that love, that ſhould moſt abound: eſpecialy ſith we ſee our Saviour Chriſt refuſed to be a iudge, or any medler in divition of lands, though he were re<g ref="char:EOLhyphen"/>quired, Luke. 12. ver. 13. yet will I not iudge any other, who upon ſpeciall occation in another copye it is, might for a time do good unto his Countrey by meanes of intreatie ſeeking to do good to his brother, doth take that charg alſo upon him.</p>
+            <p n="16">
+               <label>16. <hi>Quere.</hi>
+               </label> Whether all the Commandements of God, and of the Apoſtles are needfull for ſalvation, or no.</p>
+            <p>
+               <hi>Anſwere.</hi> All the commandements given without limitt of perſon, place, or time, are neceſſary for all men, ever to be obſerved, as all other were, to thoſe to whom they were given. And as Chriſt was a Miniſter, not of earth<g ref="char:EOLunhyphen"/>ly things, but of heavenly: ſo he gave no commandement but touching ſal<g ref="char:EOLhyphen"/>vation. So that the breach of the leaſt of them (if it be imputed to us) hath a iuſt recompence of eternall death.</p>
+            <p n="17">
+               <label>17. <hi>Quere.</hi>
+               </label> Whether the King of England hath authority over the Eccleſia<g ref="char:EOLhyphen"/>ſticall ſtate, and in Eccleſiaſticall matters as well as over the civill ſtate or no?</p>
+            <p>
+               <label>Anſ.</label> 
+               <hi>Let every ſoule be ſubjest to the higher powers</hi> and as <hi>Chyſoſtome</hi> ad<g ref="char:EOLhyphen"/>deth, <hi>whether he be an Apoſtle, or Evangeliſt, or Prophet, or whoſoever.</hi> This ſubjection is not againſt his calling. Princes have full authority over all Eccle<g ref="char:EOLhyphen"/>ſiaſticall and civill perſons, and equally over both to puniſh the offenders or to give praiſe to the well doers. Onely this is the difference in the ſoveraignity o<g ref="char:EOLhyphen"/>ver both. Firſt the Common wealth can not be without the Magiſtrate, for it is noted a moſt horrible confuſion when every man may doe what he liſt. <hi>Iud.</hi> 17. <hi>ver.</hi> 6. But if all Magiſtrates ſhould fall away from the Church, yet muſt we ſtill hold this Article of our faith, I doe beleeve the Catholike Church: for Chriſt, and not: he Chriſtian Magiſtrate, is the life and head of it. Againe, in in the common wealth the Prince maketh or repealeth lawes, as hee thinketh the ſaſety of his eſtate and benefit of his people do moſt require. But in the Church there is no law giver but Chriſt Jeſus, James. 4. ver. 12. The Prince muſt deſend the faith that he hath taught, and reward the good workes that he
+<pb facs="tcp:118187:4"/>hath commanded, and ſee whatſoever hee ſhall eſtabliſh by authority, be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſured by the rule that he hath given, 1. Cor. 10. ver. 23. and 1. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 40. Philip. 4. ver. 9.</p>
+            <p>For God hath made the King, though he were as great as an Angell, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſervant in his Church:
+<note place="margin">Princes ſervants in the church.</note> in which reſpect the Prophet David preſerreth it before all the glory of the World to be but a doore keeper in the houſe of the Lor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>Pſal.</hi> 84.10. And when the Lord himſelfe deſcribeth the excellent <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> moſt noble Kings, he ſpeaketh thus to his Church: <hi>They ſhall worſhip th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, with their faces bowed to the earth, and licke up the duſt under why feate,</hi> Eſa. 49. ver. 23. So this concluſion is plaine. The Prince ruleth in the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Wealth by law, and in the Church of God ſeeth that all be ruled of the Lord.</p>
+            <p n="18">
+               <label>18. <hi>Quere.</hi>
+               </label> Whether the King of England be cheife governour under Chriſt, over the whole church and State Eccleſiaſticall in this Realme, or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Member of the ſame, and whether the Church of England, may be eſtabliſhed without a Magiſtrate or no?</p>
+            <p>
+               <label>Anſ.</label> This is anſwered in the 17. <hi>Quere.</hi>
+            </p>
+            <p n="19">
+               <label>19. <hi>Quere.</hi>
+               </label> Whether the King of England be bound to obſerve the judi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>all lawes of <hi>Moſes,</hi> concerning the puniſhment and remitting of criminall o<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ces, or no?</p>
+            <p>
+               <label>Anſ.</label> Of this we be moſt ſure, that the Law of <hi>Moſes</hi> unto the people of <hi>Iſ<g ref="char:EOLhyphen"/>raell,</hi> was an abſolute paterne of moſt perfect juftice, ſo that all lawes ought to be made according to the equity of them, in ſuch proportion of juſtice, a may beſt be applied to the countrey, where they are to be eſtabliſhed. For me to define of all particular cauſes, I dare not. Onely this I can ſay of that I read, becauſe God hath charged, <hi>Yee ſhall take no recompence for the life of the mur<g ref="char:EOLhyphen"/>therer, Nomb.</hi> 35.32. And becauſe God, both by the law of nature, Gen. 38.24.
+<note place="margin">Equitie of Moſes law</note> And by the Law of Moſes hath jvdged the adulterer to dye, Levit. 20.10. I dare not avouch their pardon to be lawfull. Further, becauſe in the ſeat of Ju<g ref="char:EOLhyphen"/>ſtice, the man is but a Miniſter, and the judgement is the Lords, 2. Ch<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. 19. ver. 6. Many learned men of our time have thought, that in ſo plaine and ex<g ref="char:EOLhyphen"/>preſſe caſes, no Magiſtrate ſhould ſpare the life of the tranſgreſſour, but rather conteſſe, as it is in <hi>Iob.</hi> cap. 34. ver. 31. It belongeth to the Lord to ſay I will pardon, <hi>I</hi> will not deſtroy. When God ſhall give me more underſtanding, <hi>I</hi> will ſpeake more boldly: in the meane ſeaſon, <hi>I</hi> truſt, I ſhall pray that God would give unto the Prince the ſpirit of Governement, to doe faithfully his <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ty whereunto he is called.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
